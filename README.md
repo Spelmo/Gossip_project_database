@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#The Gossip Project Database
 
-Things you may want to cover:
+This is a database for The Hacking Project's exercize The Gossip Project made by Marie-Charlotte Le Morvan. The gossip project is a website where users can posts gossips than can be liked, commented, tagged. Users can also send each other private messages.
 
-* Ruby version
+It is made of 7 models:
+* User
+* City
+* Gossip
+* Tag
+* Comment
+* Like
+* Privatemessage
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It uses 1-N and N-N connexion between models.
