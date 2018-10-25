@@ -1,6 +1,6 @@
 # README
 
-#The Gossip Project Database
+## The Gossip Project Database
 
 This is a database for The Hacking Project's exercize The Gossip Project made by Marie-Charlotte Le Morvan. The gossip project is a website where users can posts gossips than can be liked, commented, tagged. Users can also send each other private messages.
 
